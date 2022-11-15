@@ -1,4 +1,4 @@
-# blogger-portfolio-template
+# Blogger portfolio template
 
 This is personal static portfolio blogger template
 
