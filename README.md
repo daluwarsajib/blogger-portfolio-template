@@ -2,4 +2,4 @@
 
 This is personal static portfolio blogger template
 
-Demo link: <a herf="https://www.daluwar.me/">daluwar.me</a>
+Demo link:https://www.daluwar.me/
