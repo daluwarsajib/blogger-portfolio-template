@@ -565,7 +565,7 @@ shortcut={all_shortcuts:{},add:function(a,b,c){var d={type:"keydown",propagate:!
 <svg class='icon'><use xlink:href='#icon-behance'/></svg>
 </span>
 </a>
-<a class='profile-card-social__item github' href='https://github.com/daluwar-sajib' target='_blank'>
+<a class='profile-card-social__item github' href='https://github.com/daluwarsajib' target='_blank'>
 <span class='icon-font'>
 <svg class='icon'><use xlink:href='#icon-github'/></svg>
 </span>
