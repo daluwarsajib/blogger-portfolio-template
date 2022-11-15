@@ -112,9 +112,8 @@ loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css")
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
 <!-- Bắt đầu viết Css cho web -->
 <b:skin><![CDATA[
-/* Th3safelink - th3safelink.blogspot.com */
-html,body{cursor:url("https://i.imgur.com/5v5M8gh.png"), auto;}
-a:hover{cursor:url("https://i.imgur.com/IXULuQ1.png"), auto;}
+
+/* Body-CSS */
 @import url("https://fonts.googleapis.com/css?family=Quicksand:400,500,700&subset=latin-ext");
 ::-webkit-scrollbar{width:5px}
 ::-webkit-scrollbar-track{background:#f1f1f1;border-radius:50px}
@@ -519,7 +518,7 @@ shortcut={all_shortcuts:{},add:function(a,b,c){var d={type:"keydown",propagate:!
 </div>
 <div class='profile-card__cnt js-profile-cnt'>
 <div class='profile-card__name'>Daluwar Sajib <i class='fa fa-check-circle' style='color:rgb(17, 143, 249)' title='Verified Author'/></div>
-<div class='profile-card__txt'>I am Daluwar, a first-year IT student with the dream of becoming a professional web developer, I love to explore, explore, learn interesting things on the Internet. Know a little about HTML, CSS, JS, ...</div>
+<div class='profile-card__txt'><b>I am Daluwar, a first-year IT student with the dream of becoming a professional web developer, I love to explore, explore, learn interesting things on the Internet. Know a little about HTML, CSS, JS, ...</b></div>
 <div class='profile-card-loc'>
 <span class='profile-card-loc__icon'>
 <svg class='icon'><use xlink:href='#icon-location'/></svg>
@@ -660,13 +659,13 @@ shortcut={all_shortcuts:{},add:function(a,b,c){var d={type:"keydown",propagate:!
         }, 1e3);
         }
         function updatePostNum(json) {
-		counter('count-view',29886)
-		counter('count-share', 68)
-        counter('count-post', 236)
+		counter('count-view',685)
+		counter('count-share', 12)
+        counter('count-post', 20)
         }
 
         function updateCmtNum(json) {
-          counter('count-cmt', 83)
+          counter('count-cmt', 7)
         }
           loadJS('//cdnjs.cloudflare.com/ajax/libs/countup.js/1.9.3/countUp.min.js', function() {
           loadJS('/feeds/posts/default/?alt=json&max-results=0&callback=updatePostNum');
@@ -676,9 +675,9 @@ shortcut={all_shortcuts:{},add:function(a,b,c){var d={type:"keydown",propagate:!
 <script src='//www.google.com/js/bg/APRPfCsrnodjyJm3xYPk-XfWkNRoIV-aJHpIj2ifANY.js' type='text/javascript'/><script defer='true' src='/b/csi.js?h=APRPfCsrnodjyJm3xYPk-XfWkNRoIV-aJHpIj2ifANY' type='text/javascript'/>
 <script src='https://www.blogger.com/static/v1/widgets/2374701131-widgets.js' type='text/javascript'/>
 <b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='yes'/>
-<!-- Thả Tim -->
+<!-- Drop Heart -->
 
-<!-- Thả Tim -->
+<!-- Drop Heart -->
 </body>
-<!-- Kết thúc phần hiển thị trên web -->
+<!-- End of web show -->
 </html>
